@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 9, 2016, 4:52:05 PM
+    Author     : Russ
+*/
+
+
+
+/*============ FONTS ==================*/
+@font-face {
+	font-family: Dosis-Regular;  
+	src: url(../network-doctor/assets/fonts/Dosis-Regular.otf);  
+	font-weight: normal;  
+}
+@font-face {
+	font-family: Dosis-Bold;  
+	src: url(../network-doctor/assets/fonts/Dosis-Bold.otf);  
+	font-weight: normal;  
+}
+@font-face {
+	font-family: Dosis-ExtraBold;  
+	src: url(../network-doctor/assets/fonts/Dosis-ExtraBold.otf);  
+	font-weight: normal;  
+}
+
+/*============ colors ==================*/
+
+$red: rgb(225, 30, 38);
+$light-blue:rgb(78, 202, 206);
+$babyblue:rgb(184, 234, 235);
