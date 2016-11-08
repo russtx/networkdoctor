@@ -35,7 +35,9 @@ get_header(); ?>
                                     
                                     <li><a href="#tab31"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/synapse-logo.png" alt="synapse"  class="network-img"></a></li>
                                     
-                                    <li><a href="#tab4"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/212-logo.png" alt="212" class="network-img" ></a></li>
+                                    <li><a href="#tab4"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/212-logo.png" alt="212" class="network-img" ></a></li> 
+                                    
+                                    
                                 </div>
                          
                                 <h3>View Calendar</h3>
@@ -223,11 +225,13 @@ get_header(); ?>
                     </div><!-- leftSide -->
                     <div class="rightSide">
                         <div class="networkOrgs">
-                            <span><h3>Our Network Organizations</h3></span>
-                            <div class="OrgImg"><a href="<?php echo get_site_url(); ?>/chesterfield-chamber-of-commerce/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/chc-logo-200.jpg" alt="chc" ></a></div>
+                            <span><h3>View Network Calendar</h3></span>
+                            <!--<div class="OrgImg"><a href="<?php echo get_site_url(); ?>/chesterfield-chamber-of-commerce/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/chc-logo-200.jpg" alt="chc" ></a></div>
                             <div class="OrgImg"><a href="<?php echo get_site_url(); ?>/get_site_url"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/pro-logo-200.jpg" alt="pro" ></a></div>
                             <div class="OrgImg"><a href="<?php echo get_site_url(); ?>/synaspe/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/synapse-logo-200.jpg" alt="synopse" ></a></div>
-                            <div class="OrgImg"><a href="<?php echo get_site_url(); ?>"/212-2/><img src="<?php echo get_template_directory_uri(); ?>/assets/images/212-logo-200.jpg" alt="212" ></a></div>
+                            <div class="OrgImg"><a href="<?php echo get_site_url(); ?>"/212-2/><img src="<?php echo get_template_directory_uri(); ?>/assets/images/212-logo-200.jpg" alt="212" ></a></div>-->
+                            <a href="<?php echo get_site_url(); ?>/calendar"><?php echo get_site_url(); ?>"/212-2/><img src="<?php echo get_template_directory_uri(); ?>/assets/images/calendar.jpg" alt="calendar" ></a>
+                        
                         </div>
                     </div><!-- rightSide -->
                     

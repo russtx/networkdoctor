@@ -86,12 +86,12 @@ img {
 	vertical-align:bottom;
 }
 a {
-	color:#444;
+	color:$red;
 	text-decoration:none;
         cursor:pointer;
 }
 a:hover {
-	color:#444;
+	color:$red-hover;
 }
 a:focus {
 	outline:0;
