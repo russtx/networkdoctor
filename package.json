@@ -32,5 +32,13 @@
     "install": "^0.8.1",
     "gitignore": "^0.6.0",
     "npm": "^3.10.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://russtx@github.com/russtx/networkdoctor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/russtx/networkdoctor/issues"
+  },
+  "homepage": "https://github.com/russtx/networkdoctor#readme"
 }

@@ -98,9 +98,9 @@ else{ ?>
 
                                         <h3>Share This </h3>
                                         <span>
-                                            <a href="#/"><i class="fa fa-facebook-square" aria-hidden="true" ></i></a>
-                                            <a href="#/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-                                            <a href="#/"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                            <a href="http://www.facebook.com/sharer.php?u=<?php the_permalink();?>&t=<?php the_title(); ?>" target="blank"><i class="fa fa-facebook-square" aria-hidden="true" ></i></a>
+                                            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=<?php the_permalink();?>&t=<?php the_title(); ?>" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                                            <a href="https://plus.google.com/share?url=<?php the_permalink();?>&t=<?php the_title(); ?>" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                                         </span>
                                     </div>
 

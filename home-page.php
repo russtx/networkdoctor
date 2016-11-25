@@ -225,7 +225,7 @@ get_header(); ?>
                     </div><!-- leftSide -->
                     <div class="rightSide">
                         <div class="networkOrgs">
-                            <span><h3>View Network Calendar</h3></span>
+                            <span><h3>View Upcoming Networking Events</h3></span>
                             <!--<div class="OrgImg"><a href="<?php echo get_site_url(); ?>/chesterfield-chamber-of-commerce/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/chc-logo-200.jpg" alt="chc" ></a></div>
                             <div class="OrgImg"><a href="<?php echo get_site_url(); ?>/get_site_url"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/pro-logo-200.jpg" alt="pro" ></a></div>
                             <div class="OrgImg"><a href="<?php echo get_site_url(); ?>/synaspe/"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/synapse-logo-200.jpg" alt="synopse" ></a></div>
